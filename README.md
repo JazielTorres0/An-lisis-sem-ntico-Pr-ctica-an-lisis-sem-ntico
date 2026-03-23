@@ -118,7 +118,7 @@ Error: variable global redefinida
 
 ---
 
-## ✅Funcionalidades implementadas
+## Funcionalidades implementadas
 
 - Validación de tipos
 - Detección de variables no definidas
@@ -128,15 +128,3 @@ Error: variable global redefinida
 
 ---
 
-##  Posibles mejoras
-
-* Integración con analizador sintáctico
-* Lectura de código desde archivos `.txt`
-* Soporte para más tipos de datos
-* Generación de código intermedio
-
----
-
-##  Autor
-
-Proyecto realizado como práctica de análisis semántico en compiladores.
